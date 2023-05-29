@@ -1,7 +1,7 @@
 # StrasParc
-App affiche la liste des Parcs de la ville de Strasbourg
-
+Une App qui affiche la liste des Parcs de la ville de Strasbourg liste par leur distance de l'utilisateur. 
 Confirmer l'accès à votre localisation pour que l'application calcule la distance entre vous et les Parcs.
+Cette application ne prend aucune information personnelle.
 
 ## Cette application affiche la distance entre l'uilisateur et les parcs public de la ville de strasbourg.
 
@@ -14,7 +14,7 @@ Confirmer l'accès à votre localisation pour que l'application calcule la dista
 ## Cette application accède à votre position GPS pour calculer la distance entre vous et les parcs.
 ## Application utile.
 
-Bonne Balade.
+Bonne Balde.
 
 Faire un don c'est sauver un animale. 
 
