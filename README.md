@@ -14,7 +14,7 @@ Cette application ne prend aucune information personnelle.
 ## Cette application accède à votre position GPS pour calculer la distance entre vous et les parcs.
 ## Application utile.
 
-Bonne Balde.
+Bonne Balade.
 
 Faire un don c'est sauver un animale. 
 
