@@ -14,7 +14,7 @@ Confirmer l'accès à votre localisation pour que l'application calcule la dista
 ## Cette application accède à votre position GPS pour calculer la distance entre vous et les parcs.
 ## Application utile.
 
-Bonne Balde ;D
+Bonne Balade.
 
 Faire un don c'est sauver un animale. 
 
